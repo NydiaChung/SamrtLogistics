@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/mongo-java-driver-3.4.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/mongo-java-driver-2.5.jar"/>
+	<classpathentry kind="lib" path="E:/software/apache/lib/NetSfJsonjar/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/software/apache/lib/NetSfJsonjar/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/software/apache/lib/NetSfJsonjar/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="E:/software/apache/lib/NetSfJsonjar/commons-logging.jar"/>
+	<classpathentry kind="lib" path="E:/software/apache/lib/NetSfJsonjar/ezmorph-1.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/software/apache/lib/NetSfJsonjar/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
